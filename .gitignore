@@ -1,0 +1,17 @@
+# LaTeX temporary compilation files
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.xdv
+
+# Optional: If you don't want to track the compiled PDF in git
+*.pdf
